@@ -21,7 +21,7 @@ Below are the stated guidelines for the use of these logos; otherwise, adhere to
 
 ## Acknowledgements
 
-Thank you to all the projects that have used these logos in your projects.
+Thank you to all the projects that have used these logos.
 
 See the logos in action below:
 
